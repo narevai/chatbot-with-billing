@@ -45,7 +45,7 @@ jobs:
 
       - name: Install Playwright Browsers
         if: steps.playwright-cache.outputs.cache-hit != 'true'
-        run: pnpm run test:setup
+        run: pnpm run test:e2e:setup
 
       - name: Run Playwright tests
         run: pnpm run test:e2e
