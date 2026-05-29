@@ -1,6 +1,6 @@
 {
   "name": "chatbot-with-billing",
-  "version": "0.0.8",
+  "version": "0.0.11",
   "scripts": {
     "dev": "next dev --turbo --port 3000",
     "build": "tsx lib/db/migrate && next build",
@@ -21,15 +21,9 @@
     "test:report": "pnpm exec playwright show-report"
   },
   "dependencies": {
-    "@ai-billing/anthropic": "^0.1.2",
-    "@ai-billing/core": "^0.1.2",
-    "@ai-billing/nextjs": "^0.0.8",
-    "@ai-billing/openai": "^0.1.2",
-    "@ai-billing/polar": "^0.1.5",
-    "@ai-sdk/anthropic": "^3.0.0",
+    "@ai-billing/nextjs": "^0.0.11",
     "@ai-sdk/openai": "^3.0.0",
     "@ai-sdk/provider": "^3.0.8",
-    "@ai-sdk/react": "3.0.118",
     "@codemirror/lang-python": "^6.1.6",
     "@codemirror/state": "^6.5.0",
     "@codemirror/theme-one-dark": "^6.1.2",
