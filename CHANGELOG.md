@@ -1,5 +1,61 @@
 # chatbot-with-billing
 
+## 0.0.15
+
+### Patch Changes
+
+- @ai-billing/nextjs@0.0.15
+
+## 0.0.14
+
+### Patch Changes
+
+- Updated dependencies [0fb5389]
+  - @ai-billing/nextjs@0.0.14
+
+## 0.0.13
+
+### Patch Changes
+
+- Updated dependencies [be9b06c]
+  - @ai-billing/nextjs@0.0.13
+
+## 0.0.12
+
+### Patch Changes
+
+- Updated dependencies [2b0c2e2]
+  - @ai-billing/nextjs@0.0.12
+
+## 0.0.11
+
+### Patch Changes
+
+- 1545485: fix(nexjs): make all dependencies mandatory
+- Updated dependencies [ae6c4a1]
+- Updated dependencies [1545485]
+  - @ai-billing/nextjs@0.0.11
+
+## 0.0.10
+
+### Patch Changes
+
+- Updated dependencies [faf939a]
+  - @ai-billing/anthropic@0.1.3
+  - @ai-billing/nextjs@0.0.10
+  - @ai-billing/openai@0.1.3
+  - @ai-billing/polar@0.1.6
+  - @ai-billing/core@0.1.3
+
+## 0.0.9
+
+### Patch Changes
+
+- d0e7dd3: fix(examples): rename examples
+- Updated dependencies [bebd70b]
+- Updated dependencies [0126081]
+  - @ai-billing/nextjs@0.0.9
+
 ## 0.0.9
 
 ### Patch Changes
